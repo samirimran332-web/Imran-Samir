@@ -1,0 +1,7 @@
+{
+  "name": "Bangla AI Call Assistant",
+  "description": "A professional Bangla-speaking AI receptionist that handles incoming calls, identifies spam, and takes messages using Gemini Live API and Search Grounding.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
